@@ -47,7 +47,7 @@ const URLForm = ({
     <Button
       type="submit"
       variant="contained"
-      color="primary"
+      color="secondary"
       fullWidth
       disabled={isLoading}
       sx={{ mt: 2 }}
